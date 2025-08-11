@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/Syn-gularity/pokedexcli/jsonPokemonAPI"
+	"github.com/Syn-gularity/internal/pokedexcli/jsonPokemonAPI"
 )
 
 func commandExit(config *config) error{
